@@ -1,5 +1,6 @@
 # Pima_Indian_Diabetes_Analysis
-A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). In this tribe, it was found that the ladies are prone to diabetes very early. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients were females at least 21 years old of Pima Indian heritage. We analyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
+We analyze different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
+A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). In this tribe, it was found that the ladies are prone to diabetes very early. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients were females at least 21 years old of Pima Indian heritage.
 
 Data Dictionary:
 Pregnancies: Number of times pregnant
